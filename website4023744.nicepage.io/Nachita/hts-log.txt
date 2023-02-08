@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Feb 2023 21:58:11 at https://website4023744.nicepage.io/?version=31c409d3-f56e-4135-b485-44769bb36ada&uid=1fa16faf-4611-4714-91b2-528f42c38072 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://website4023744.nicepage.io/?version=31c409d3-f56e-4135-b485-44769bb36ada&uid=1fa16faf-4611-4714-91b2-528f42c38072 -O1 "C:\Users\jorda\OneDrive\Escritorio\Nachita2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:58:25	Error: 	"Not Found" (404) at link https://website4023744.nicepage.io/Content/BundledScripts/ (from capp.nicepage.com/2da30e5c652d509759c36b737b78368cdaee2bb8/nicepage.js)
+21:58:25	Error: 	"Not Found" (404) at link https://website4023744.nicepage.io/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from capp.nicepage.com/2da30e5c652d509759c36b737b78368cdaee2bb8/nicepage.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 12 links scanned, 9 files written (2999854 bytes overall) [782616 bytes received at 55901 bytes/sec], 2528724 bytes transferred using HTTP compression in 10 files, ratio 11%, 1.7 requests per connection
+(2 errors, 0 warnings, 0 messages)
